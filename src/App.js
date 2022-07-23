@@ -6,6 +6,7 @@ import Logo from './images/logo.svg';
 import IconTwitter from './images/icon-twitter.svg';
 import IconYouTube from './images/icon-youtube.svg';
 import IconLaptop from './images/icon-laptop.svg';
+import IconLaptop from './images/icon-laptop.svg';
 
 export default function App() {
   return (
